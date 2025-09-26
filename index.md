@@ -15,7 +15,7 @@ title: "My Page"
 ## About
 I build practical systems: autonomous robotics, environmental sensors, and small AI models. I care about safety, health, reliability, community, and quality over quantity.
 
-**Skills:** Python · C/C++ · Arduino · Raspberry Pi · OpenCV · TensorFlow · CAD · 3D Printing · Electronics
+**Skills:** Python · C/C++ · Arduino · Raspberry Pi · OpenCV · TensorFlow · CAD · 3D Printing · Electronics 
 
 ---
 
@@ -23,21 +23,18 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 
 ### Ocean Cleanup Microplastics Collector Robot *(Started 2025, To Be Finished 2026)*
 - **What:** Floating robot detects microplastics, uses ferrofluid to attract contaminants, and magnetically retrieves ferrofluids and microplastics from water, and logs results.  
-- **Impact:** TBD.  
+- **Impact:** TBD • Goal: A fully AI-powered robot that demonstrates how ferrofluid and robotics can be used to clean up our oceans!
 - **Stack:** Python, OpenCV, Raspberry Pi, Servos, YOLO
-- **Recognitions:** TBD 
 
 ### HAPHAICS: Hovercraft Analysis of Public Health via AI and Integrated Climate Sensors *(2024–2025)*
 - **What:** Air-quality sensing + computer vision for crowd health cues (scans trash, and senses air conditions).  
 - **Impact:**   
 - **Stack:** Raspberry Pi, YOLO, OpenCV, Sen55X Air quality Sensor, Python
-- **Recognitions:** TBD 
 
 ### Recognizing Cancerous Cells in Breast Tissue Using The Python Keras Library (MVP) *(2023-2024)*
 - **What:** Developed and demonstrated how artificial intelligence could be used to support the healthcare industry and diagnose cancer.  
 - **Impact:** 
 - **Stack:** Python, Tensorflow, Keras
-- **Recognitions:** TBD 
 
 ---
 
