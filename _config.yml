@@ -1,0 +1,20 @@
+
+title: Moroti Adegboyega
+description: "Grade 11 engineer — robotics, AI, sensors. Proof-of-work portfolio."
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+url: "https://olumorotiadegboyega.github.io"
+
+author:
+  name: "Moroti Adegboyega"
+  email: "you@example.com"
+social:
+  links:
+    - https://www.linkedin.com/in/your-handle
+    - https://github.com/your-handle
