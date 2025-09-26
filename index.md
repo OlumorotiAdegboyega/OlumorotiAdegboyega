@@ -80,3 +80,4 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 ## References
 - Sandra Escandor, sescandor@gmail.com
 - Robyn Matthews, rmatthews@stbons.ca
+- Katelyn Hoyles, katelyn.hoyles@codeninjas.com
