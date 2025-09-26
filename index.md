@@ -54,7 +54,7 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 - Gained a super wide network of future and current leaders in business, tech, and science.
 
 ## Awards
--*Over 1000$ In awards won*
+-*Over 1000$ In awards won from Science Fairs*
 - **2025** — NL Science Fair —Best In Electrical Engineering • 1st Place Intermediate Physical Sciences 
 - **2024** — NL Science Fair — Chosen to Represent Newfoundland at the Canada Wide Science Fair and competed with top 450 students in Canada • Gold Medal Intermediate Physical Sciences • MUN Biochemistry Department: Intermediate Second Place • College For Medical Laboratory Science Award
 - **2023** — NL Science Fair — Gold Medal Junior Life Sciences 
