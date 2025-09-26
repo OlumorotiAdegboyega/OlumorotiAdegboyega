@@ -76,8 +76,9 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 - **Email:** olu.360moroti@gmail.com  
 - **Open to:** research assistance, internships (remote or onsite), and collaborations.
 
-
+<!--
 ## References
 - Sandra Escandor, sescandor@gmail.com
 - Robyn Matthews, rmatthews@stbons.ca
 - Katelyn Hoyles, katelyn.hoyles@codeninjas.com
+--!>
