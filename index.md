@@ -1,9 +1,10 @@
 ---
-title: "Home"
+title: "My Page"
 ---
 
 # Moroti Adegboyega
-**Grade 11 • Emerging Engineer (Robotics • AI • Computers • Environmental) — St. John’s, NL**
+*Grade 11 Student @ SBC*
+**Emerging Engineer (Robotics • AI • Computers • Environmental) — St. John’s, NL**
 
 [Email](olu.360moroti@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/moroti-adegboyega-a35527313/) ·
