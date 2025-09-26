@@ -42,17 +42,23 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 ---
 
 ## Experience
-**Founder & Lead, TecNurtur — Community Tech Education (2025—present)**  
-- Taught 50+ learners; food donations as tuition.  
-- Built Arduino/vision kits; trained volunteers.
+**Founder & Lead, TecNurtur — Community Tech Education & Humanitarian Organization(2025—present)**  
+-Non-profit program that teaches kids and seniors tech skills(Coding, Digital Security/Literacy, Social Media, Canva, etc.) in exchange for food donations!
+- 10+ people taught
+- 18+ Pounds of food donated to those in need!
+- And More to come!
+- [Support Us](https://www.instagram.com/tec_nurtur_nl/)·
 
 **SHAD Alumni & Program, SHAD@WLU 2025 (2025)**  
-- Gained skills in leadership, public speaking.
-- Gained a super wide network of future and current leaders in buisness, tech, and science.
+- Gained leadership skills and public speaking.
+- Gained a super wide network of future and current leaders in business, tech, and science.
 
 ## Awards
-- 2025 — NL Science Fair — *Category Winner*  
-- 2024 — Memorial Hackathon — *Top 10 Team*  
+-*Over 1000$ In awards won*
+- **2025** — NL Science Fair — ** Best In Electrical Engineering • 1st Place Intermediate Physical Sciences**  
+- **2024** — NL Science Fair — **Chosen to Represent Newfoundland at the Canada Wide Science Fair and competed with top 450 students in Canada • Gold Medal Intermediate Physical Sciences • MUN Biochemistry Department: Intermediate Second Place • College For Medical Laboratory Science Award **  
+- **2023** — NL Science Fair — **  Gold Medal Junior Life Sciences**  
+- **2023** — PolyUnity Hosted Hackathon — 1st Place  
 
 ---
 
