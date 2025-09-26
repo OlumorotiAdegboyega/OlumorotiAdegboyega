@@ -3,7 +3,7 @@ title: Moroti Adegboyega
 description: "Emerging Engineer — Robotics, AI, Sensors, Community, Passion"
 
 theme: jekyll-theme-Architect
-
+show_downloads: false
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
