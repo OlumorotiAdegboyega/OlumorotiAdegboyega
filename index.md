@@ -49,12 +49,22 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 - And More to come!
 - [Support Us](https://www.instagram.com/tec_nurtur_nl/)·
 
-**SHAD Alumni & Program, SHAD@WLU 2025 (2025)**  
+**SHAD Alumni & Program, SHAD@WLU (2025)**  
 - Gained leadership skills and public speaking.
 - Gained a super wide network of future and current leaders in business, tech, and science.
 
+**Code Ninjas Mount Pearl, Tech Educator(2023 - present)**
+- Teaching kids important tech skills, such as coding, game development, CAD, 3D printing, AI, and more!
+- Learned skills like: Educating, patience, organizing, and problem-solving.
+
+**St. Bonaventure's College, Afterschool Councillor(2024 - present)**
+- Taking care of children after school, keeping them safe and playing with them!
+- Learned skills like communication, patience, and conflict resolution.
+  
+
+
 ## Awards
--*Over 1000$ In awards won from Science Fairs*
+-*Over 1000$ in awards won from Science Fairs*
 - **2025** — NL Science Fair —Best In Electrical Engineering • 1st Place Intermediate Physical Sciences 
 - **2024** — NL Science Fair — Chosen to Represent Newfoundland at the Canada Wide Science Fair and competed with top 450 students in Canada • Gold Medal Intermediate Physical Sciences • MUN Biochemistry Department: Intermediate Second Place • College For Medical Laboratory Science Award
 - **2023** — NL Science Fair — Gold Medal Junior Life Sciences 
