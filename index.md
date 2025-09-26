@@ -21,7 +21,7 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 
 ## Projects
 
-### Ocena Cleanup Microplastics Collector Robot *(Started 2025, To Be Finished 2026)*
+### Ocean Cleanup Microplastics Collector Robot *(Started 2025, To Be Finished 2026)*
 - **What:** Floating robot detects microplastics, uses ferrofluid to attract contaminants, and magnetically retrieves ferrofluids and microplastics from water, and logs results.  
 - **Impact:** TBD.  
 - **Stack:** Python, OpenCV, Raspberry Pi, Servos, YOLO
