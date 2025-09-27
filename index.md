@@ -51,7 +51,7 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 **SHAD Alumni & Program, SHAD@WLU (2025)**  
 - Gained leadership skills and public speaking.
 - Gained a super wide network of future and current leaders in business, tech, and science.
--[ Become a SHAD](https://www.shad.ca/apply/?utm_source=sa_paid_search&utm_medium=google&gad_source=1&gad_campaignid=23048963991&gbraid=0AAAAA_6JRl1s5f788g0-H_6aj9ztLLbBi&gclid=CjwKCAjwlt7GBhAvEiwAKal0crfb1HJPui-S_uHkH-eQobibGx2u-oZ7w73uhL7LxCtEepZm216EpRoCSJAQAvD_BwE)
+- [Become a SHAD](https://www.shad.ca/apply/?utm_source=sa_paid_search&utm_medium=google&gad_source=1&gad_campaignid=23048963991&gbraid=0AAAAA_6JRl1s5f788g0-H_6aj9ztLLbBi&gclid=CjwKCAjwlt7GBhAvEiwAKal0crfb1HJPui-S_uHkH-eQobibGx2u-oZ7w73uhL7LxCtEepZm216EpRoCSJAQAvD_BwE)
 
 **Code Ninjas Mount Pearl, Tech Educator(2023 - present)**
 - Teaching kids important tech skills, such as coding, game development, CAD, 3D printing, AI, and more!
