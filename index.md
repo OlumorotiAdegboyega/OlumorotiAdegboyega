@@ -39,8 +39,9 @@ I build practical systems: autonomous robotics, environmental sensors, and small
 - [Learn More Here](https://projectboard.net/profile)
 
 #### Games
-**Slide^3:** A small 10-level puzzle game, challenge yourself and think creatively with 5 exciting mechanics to explore  • Play It [HERE](https://olumorotiadegboyega.github.io/BLACKBELTGAME/) or [HERE](https://the-maisonry.itch.io/slide-3)
-**Shopping Light:** A small high-score based game where you must go through your shopping list as fast as possible, grab coupons, race against time and listen to funny intercom messages  • Play it [HERE](https://the-maisonry.itch.io/funsupermarketsimulator)
+- **Slide^3:** A small 10-level puzzle game, challenge yourself and think creatively with 5 exciting mechanics to explore  • Play It [HERE](https://olumorotiadegboyega.github.io/BLACKBELTGAME/) or [HERE](https://the-maisonry.itch.io/slide-3)
+  
+- **Shopping Light:** A small high-score based game where you must go through your shopping list as fast as possible, grab coupons, race against time and listen to funny intercom messages  • Play it [HERE](https://the-maisonry.itch.io/funsupermarketsimulator)
     
 
 ---
